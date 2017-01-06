@@ -1,0 +1,67 @@
+GL_Number,GL_Description,Transaction,Amount,Date
+100,Cash,Initial capital contrib,20000,1/1/2017
+310,Capital,Initial capital contrib,-20000,1/1/2017
+100,Cash,Loan from bank,180000,1/15/2017
+250,Note Payable,Loan from bank,-180000,1/15/2017
+550,Payroll,Payroll,15000,1/31/2017
+100,Cash,Payroll,-15000,1/31/2017
+150,Inventory,Purchase inventory,120000,2/15/2017
+200,Accounts Payable,Purchase inventory,-120000,2/15/2017
+550,Payroll,Payroll,15000,2/15/2017
+100,Cash,Payroll,-15000,2/15/2017
+200,Accounts Payable,Pay invoice,120000,3/31/2017
+100,Cash,Pay invoice,-120000,3/31/2017
+120,Accounts Receivable,Sales,70000,3/31/2017
+400,Revenues,Sales,-70000,3/31/2017
+500,Cost of goods sold,Sales,52500,3/31/2017
+150,Inventory,Sales,-52500,3/31/2017
+250,Note Payable,Note payment,19800,3/31/2017
+100,Cash,Note payment,-20000,3/31/2017
+520,Interest expense,Note payment,200,3/31/2017
+550,Payroll,Payroll,15000,3/31/2017
+100,Cash,Payroll,-15000,3/31/2017
+100,Cash,Collect AR,70000,3/31/2017
+120,Accounts Receivable,Collect AR,-70000,3/31/2017
+150,Inventory,Purchase inventory,120000,3/31/2017
+200,Accounts Payable,Purchase inventory,-120000,3/31/2017
+120,Accounts Receivable,Sales,90000,4/30/2017
+400,Revenues,Sales,-90000,4/30/2017
+500,Cost of goods sold,Sales,67500,4/30/2017
+150,Inventory,Sales,-67500,4/30/2017
+250,Note Payable,Note payment,19800,4/30/2017
+100,Cash,Note payment,-20000,4/30/2017
+520,Interest expense,Note payment,200,4/30/2017
+100,Cash,Collect AR,90000,4/30/2017
+120,Accounts Receivable,Collect AR,-90000,4/30/2017
+200,Accounts Payable,Pay AP,100000,4/30/2017
+100,Cash,Pay AP,-100000,4/30/2017
+550,Payroll,Payroll,15000,4/30/2017
+100,Cash,Payroll,-15000,4/30/2017
+120,Accounts Receivable,Sales,120000,5/31/2017
+400,Revenues,Sales,-120000,5/31/2017
+500,Cost of goods sold,Sales,90000,5/31/2017
+150,Inventory,Sales,-90000,5/31/2017
+250,Note Payable,Note payment,19800,5/31/2017
+100,Cash,Note payment,-20000,5/31/2017
+520,Interest expense,Note payment,200,5/31/2017
+100,Cash,Collect AR,90000,5/31/2017
+120,Accounts Receivable,Collect AR,-90000,5/31/2017
+200,Accounts Payable,Pay AP,20000,5/31/2017
+100,Cash,Pay AP,-20000,5/31/2017
+550,Payroll,Payroll,15000,5/31/2017
+100,Cash,Payroll,-15000,5/31/2017
+150,Inventory,Purchase inventory,150000,3/31/2017
+200,Accounts Payable,Purchase inventory,-150000,3/31/2017
+120,Accounts Receivable,Sales,120000,6/30/2017
+400,Revenues,Sales,-120000,6/30/2017
+500,Cost of goods sold,Sales,90000,6/30/2017
+150,Inventory,Sales,-90000,6/30/2017
+250,Note Payable,Note payment,19800,6/30/2017
+100,Cash,Note payment,-20000,6/30/2017
+520,Interest expense,Note payment,200,6/30/2017
+100,Cash,Collect AR,90000,6/30/2017
+120,Accounts Receivable,Collect AR,-90000,6/30/2017
+200,Accounts Payable,Pay AP,20000,6/30/2017
+100,Cash,Pay AP,-20000,6/30/2017
+550,Payroll,Payroll,15000,6/30/2017
+100,Cash,Payroll,-15000,6/30/2017
